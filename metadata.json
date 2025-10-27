@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Photo Editor",
+  "description": "An application to remove backgrounds and clean up product photos using simple text instructions, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
